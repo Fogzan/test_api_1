@@ -1,2 +1,5 @@
-pip install -r requirements.txt
-uvicorn main:app --reload
+Для запуска: 
+```
+  pip install -r requirements.txt
+  uvicorn main:app --reload
+```
